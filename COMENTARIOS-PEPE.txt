@@ -1,0 +1,16 @@
+EJECUCIÓN
+No te ciñes al enunciado y los controles no son los mismos
+Error de ejecución cuando pulsas en el botón volver al informarte que existen errores
+
+PROYECTO
+Sería conveniente utilizar un sólo fichero css para todo el proyecto.
+
+FICHERO REGISTRO.HTML
+Todo correcto
+
+SERVLET
+Un servlet es una clase y como tal su nombre tiene que empezar por mayúscula.
+Tienes algunos comentarios en el código del servlet a modo de retroalimentación
+
+
+CALIFICACIÓN DEL EJERCICIO -> 3.00

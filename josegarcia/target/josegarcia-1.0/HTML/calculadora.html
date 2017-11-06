@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../CSS/Index.css"/>
+    </head>
+    <h1>Calculadora</h1>
+<div id="contenedor">
+    <form action="../JSP/calculadora.jsp" method="POST">
+        <br>
+    Primer número: <input type="text" name="num1"><p>
+
+    Segundo número: <input type="text" name="num2"><p>
+
+<input type="radio" name="operacion" value="suma" checked="checked">
+<label>Suma</label>
+<input type="radio" name="operacion" value="resta" >
+<label>Resta</label>
+<input type="radio" name="operacion" value="multiplicacion">
+<label>Multiplicacion</label>
+<input type="radio" name="operacion" value="division">
+<label>Division</label>
+<br><br>
+<input type="submit" value="Enviar">
+<br><br>
+<a href="../index.html">Volver al menú</a>
+</form>
+</div>
+ </html>
